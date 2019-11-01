@@ -1,6 +1,6 @@
-# DataFilter-using-Javasript
+# DataFilter-using-JavaScript
 
-Technology Used: Javascript, HTML, CSS
+Technology Used: JavaScript, HTML, CSS
 
 Live Demo: https://mirfakhrulhassan.github.io/DataFilter-using-Javascript/
 
